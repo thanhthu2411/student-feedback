@@ -1,0 +1,156 @@
+[
+    {
+        "id": "001",
+        "name": "Thu Dang",
+        "age": 14,
+        "gender": "Female",
+        "class_year": "2026",
+        "DOB": "2011-05-15", 
+
+        "Academic_performance":{
+            "Math": "92",
+            "English": "98",
+            "Natural_Science": "93",
+            "Social_Science": "95",
+            "Arts": "95"
+        }, 
+        "Behavior": {
+            "Attendance": "5",
+            "Disciline": "5",
+            "Leadership": "4",
+            "Teamwork":"5",
+            "Participation": "5"
+
+            
+    
+        }
+    },
+
+    {
+        "id": "002",
+        "name": "Tyra Kasapo",
+        "age": 15,
+        "gender": "Female",
+        "class_year": "2026",
+        "DOB": "2012-08-15", 
+
+        "Academic_performance":{
+            "Math": "92",
+            "English": "90",
+            "Natural_Science": "88",
+            "Social_Science": "79",
+            "Arts": "98"
+        }, 
+        "Behavior": {
+            "Attendance": "5",
+            "Disciline": "4",
+            "Leadership": "2",
+            "Teamwork":"5",
+            "Participation": "4"
+        }
+    },
+
+    {
+        "id": "003",
+        "name": "Liam Smith",
+        "age": 15,
+        "gender": "Male",
+        "class_year": "2026",
+        "DOB": "2012-08-22", 
+
+        "Academic_performance":{
+            "Math": "78",
+            "English": "82",
+            "Natural_Science": "75",
+            "Social_Science": "80",
+            "Arts": "90"
+        }, 
+        "Behavior": {
+            "Attendance": "4",
+            "Disciline": "3",
+            "Leadership": "4",
+            "Teamwork":"2",
+            "Participation": "4"
+        }
+    }, 
+
+    {
+        "id": "004",
+        "name": "Noah Davis",
+        "age": 14,
+        "gender": "Female",
+        "class_year": "2026",
+        "DOB": "2011-11-03", 
+
+        "Academic_performance":{
+            "Math": "88",
+            "English": "95",
+            "Natural_Science": "89",
+            "Social_Science": "89",
+            "Arts": "93"
+        }, 
+        "Behavior": {
+            "Attendance": "4",
+            "Disciline": "3",
+            "Leadership": "5",
+            "Teamwork":"5",
+            "Participation": "4"
+        }
+    }, 
+
+    {
+        "id": "005",
+        "name": "Sophia Wilson",
+        "age": 14,
+        "gender": "Female",
+        "class_year": "2026",
+        "DOB": "2010-07-19", 
+
+        "Academic_performance":{
+            "Math": "92",
+            "English": "94",
+            "Natural_Science": "96",
+            "Social_Science": "92",
+            "Arts": "93"
+        }, 
+        "Behavior": {
+            "Attendance": "5",
+            "Disciline": "5",
+            "Leadership": "5",
+            "Teamwork":"5",
+            "Participation": "4"
+        }
+    },
+
+    {
+        "id": "006",
+        "name": "Emma Johnson",
+        "age": 15,
+        "gender": "Female",
+        "class_year": "2026",
+        "DOB": "2012-08-15", 
+
+        "Academic_performance":{
+            "Math": "92",
+            "English": "88",
+            "Natural_Science": "90",
+            "Social_Science": "85",
+            "Arts": "98"
+        }, 
+        "Behavior": {
+            "Attendance": "5",
+            "Disciline": "4",
+            "Leadership": "5",
+            "Teamwork":"5",
+            "Participation": "4"
+        }
+    }
+
+
+
+
+
+    
+     
+    
+]

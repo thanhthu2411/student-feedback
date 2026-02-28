@@ -1,0 +1,18 @@
+
+```{python}
+import polars as pl
+df =pl.read_json("students.JSON")
+print(df)
+df = pl.DataFrame(df)
+
+```
+
+```{python}
+df.head()
+
+data = {
+    "Name": ["Alice", "Bob", "Charlie", "David", "Eve"],
+    "Age": [20, 21, 22, 23, 24],
+    "Grade": ["A", "B", "C", "D", "F"]
+}
+```
