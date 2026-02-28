@@ -1,0 +1,54 @@
+<%- include('partials/header')%> <%- include('partials/sidebar')%>
+<main class="dashboard-container">
+  <section class="welcome-container">
+    <h1>Sister Smith | Class 5A Dashboard</h1>
+    <!-- goes to student page  -->
+    <form class="search-form-container" method="get" action="/student">
+      <input name="q" type="text" placeholder="Search student" />
+      <button class="search-btn" type="submit" aria-label="submit button">
+        <svg class="icon">
+          <use xlink:href="/images/sprite.symbol.svg#search"></use>
+        </svg>
+      </button>
+    </form>
+  </section>
+
+  <!-- main part  -->
+  <section class="dashboard-main-container">
+    <div class="overall-info-container">
+        <div class="overall-card">
+            <img class="icon" src="/images/students.png">
+            <div>
+                <h2>Number of students</h2>
+                <p>15</p>
+            </div>
+        </div>
+        <div class="overall-card">
+            <img class="icon" src="/images/academic.png">
+            <div>
+                <h2>Overall Academic Performance</h2>
+                <p>85/100</p>
+            </div>
+        </div>
+        <div class="overall-card">
+            <img class="icon" src="/images/behavior.png">
+            <div>
+                <h2>Overall Behaviral Performance</h2>
+                <p>70/100</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="class-widget-container">
+        <div class="class-info-container">
+            <div class="wrapper">
+                <h2>Class 5A Info</h2>
+            </div>
+            <div class="class-info">
+                
+            </div>
+        </div>
+    </div>
+  </section>
+</main>
+<%- include('partials/footer')%>
